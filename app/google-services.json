@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "553061797382",
+    "project_id": "harmonyhost-48c1c",
+    "storage_bucket": "harmonyhost-48c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553061797382:android:6fe47647d833fb52187d87",
+        "android_client_info": {
+          "package_name": "com.androidclass.harmonyhost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553061797382-8mkmm22b389i1tvt7auce3c1n8sf2aae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidclass.harmonyhost",
+            "certificate_hash": "a4925c81fbe3538dad7068272d8c5713720ad3be"
+          }
+        },
+        {
+          "client_id": "553061797382-stcl9tbi2larbbdme48njubbk1ut9i1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkTRBPGgvquMPYGPb1ULH-AYsj23OTENE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553061797382-stcl9tbi2larbbdme48njubbk1ut9i1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
